@@ -1,0 +1,27 @@
+INPUT_TABLE,,,,
+Variable ID,,,,
+PrimaryRenewKeywordInt,,,,
+,,,,
+sector.name,subsector.name,intermittent.technology,year,primary.renewable
+electricity,offshore wind,offshore wind c4,1975,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,1990,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2005,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2010,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2015,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2020,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2025,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2030,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2035,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2040,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2045,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2050,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2055,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2060,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2065,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2070,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2075,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2080,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2085,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2090,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2095,offshore-wind-elect
+electricity,offshore wind,offshore wind c4,2100,offshore-wind-elect

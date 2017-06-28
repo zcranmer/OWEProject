@@ -1,0 +1,57 @@
+INPUT_TABLE,,,
+Variable ID,,,
+StubTech,,,
+,,,
+region,supplysector,subsector,stub.technology
+CA,electricity,offshore wind,offshore wind 2
+CA,electricity,offshore wind,offshore_wind_storage_2
+CT,electricity,offshore wind,offshore wind 2
+CT,electricity,offshore wind,offshore_wind_storage_2
+DE,electricity,offshore wind,offshore wind 2
+DE,electricity,offshore wind,offshore_wind_storage_2
+GA,electricity,offshore wind,offshore wind 2
+GA,electricity,offshore wind,offshore_wind_storage_2
+HI,electricity,offshore wind,offshore wind 2
+HI,electricity,offshore wind,offshore_wind_storage_2
+IL,electricity,offshore wind,offshore wind 2
+IL,electricity,offshore wind,offshore_wind_storage_2
+IN,electricity,offshore wind,offshore wind 2
+IN,electricity,offshore wind,offshore_wind_storage_2
+LA,electricity,offshore wind,offshore wind 2
+LA,electricity,offshore wind,offshore_wind_storage_2
+ME,electricity,offshore wind,offshore wind 2
+ME,electricity,offshore wind,offshore_wind_storage_2
+MD,electricity,offshore wind,offshore wind 2
+MD,electricity,offshore wind,offshore_wind_storage_2
+MA,electricity,offshore wind,offshore wind 2
+MA,electricity,offshore wind,offshore_wind_storage_2
+MI,electricity,offshore wind,offshore wind 2
+MI,electricity,offshore wind,offshore_wind_storage_2
+MN,electricity,offshore wind,offshore wind 2
+MN,electricity,offshore wind,offshore_wind_storage_2
+NH,electricity,offshore wind,offshore wind 2
+NH,electricity,offshore wind,offshore_wind_storage_2
+NJ,electricity,offshore wind,offshore wind 2
+NJ,electricity,offshore wind,offshore_wind_storage_2
+NY,electricity,offshore wind,offshore wind 2
+NY,electricity,offshore wind,offshore_wind_storage_2
+NC,electricity,offshore wind,offshore wind 2
+NC,electricity,offshore wind,offshore_wind_storage_2
+OH,electricity,offshore wind,offshore wind 2
+OH,electricity,offshore wind,offshore_wind_storage_2
+OR,electricity,offshore wind,offshore wind 2
+OR,electricity,offshore wind,offshore_wind_storage_2
+PA,electricity,offshore wind,offshore wind 2
+PA,electricity,offshore wind,offshore_wind_storage_2
+RI,electricity,offshore wind,offshore wind 2
+RI,electricity,offshore wind,offshore_wind_storage_2
+SC,electricity,offshore wind,offshore wind 2
+SC,electricity,offshore wind,offshore_wind_storage_2
+TX,electricity,offshore wind,offshore wind 2
+TX,electricity,offshore wind,offshore_wind_storage_2
+VA,electricity,offshore wind,offshore wind 2
+VA,electricity,offshore wind,offshore_wind_storage_2
+WA,electricity,offshore wind,offshore wind 2
+WA,electricity,offshore wind,offshore_wind_storage_2
+WI,electricity,offshore wind,offshore wind 2
+WI,electricity,offshore wind,offshore_wind_storage_2

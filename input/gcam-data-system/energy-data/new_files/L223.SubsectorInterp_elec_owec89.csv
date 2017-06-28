@@ -1,0 +1,22 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+SubsectorInterp,,,,,,
+,,,,,,
+region,supplysector,subsector,apply.to,from.year,to.year,interpolation.function
+Africa_Eastern,electricity,offshore wind,share-weight,2010,2100,linear
+Africa_Northern,electricity,offshore wind,share-weight,2010,2100,linear
+Africa_Southern,electricity,offshore wind,share-weight,2010,2100,linear
+Africa_Western,electricity,offshore wind,share-weight,2010,2100,linear
+Australia_NZ,electricity,offshore wind,share-weight,2010,2100,linear
+Canada,electricity,offshore wind,share-weight,2010,2100,linear
+Central America and Caribbean,electricity,offshore wind,share-weight,2010,2100,linear
+EU-15,electricity,offshore wind,share-weight,2010,2100,linear
+European Free Trade Association,electricity,offshore wind,share-weight,2010,2100,linear
+Mexico,electricity,offshore wind,share-weight,2010,2100,linear
+Middle East,electricity,offshore wind,share-weight,2010,2100,linear
+Russia,electricity,offshore wind,share-weight,2010,2100,linear
+South America_Northern,electricity,offshore wind,share-weight,2010,2100,linear
+South America_Southern,electricity,offshore wind,share-weight,2010,2100,linear
+Southeast Asia,electricity,offshore wind,share-weight,2010,2100,linear
+Argentina,electricity,offshore wind,share-weight,2010,2100,linear
+Colombia,electricity,offshore wind,share-weight,2010,2100,linear

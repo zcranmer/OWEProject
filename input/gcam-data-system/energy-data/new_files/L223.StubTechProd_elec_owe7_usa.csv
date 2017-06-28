@@ -1,0 +1,21 @@
+INPUT_TABLE,,,,,,,,
+Variable ID,,,,,,,,
+StubTechProd,,,,,,,,
+,,,,,,,,
+region,supplysector,subsector,stub.technology,year,calOutputValue,share.weight.year,subs.share.weight,share.weight
+CA,electricity,offshore wind,offshore wind 7,1975,0,1975,0,0
+HI,electricity,offshore wind,offshore wind 7,1975,0,1975,0,0
+ME,electricity,offshore wind,offshore wind 7,1975,0,1975,0,0
+OR,electricity,offshore wind,offshore wind 7,1975,0,1975,0,0
+CA,electricity,offshore wind,offshore wind 7,1990,0,1990,0,0
+HI,electricity,offshore wind,offshore wind 7,1990,0,1990,0,0
+ME,electricity,offshore wind,offshore wind 7,1990,0,1990,0,0
+OR,electricity,offshore wind,offshore wind 7,1990,0,1990,0,0
+CA,electricity,offshore wind,offshore wind 7,2005,0,2005,0,0
+HI,electricity,offshore wind,offshore wind 7,2005,0,2005,0,0
+ME,electricity,offshore wind,offshore wind 7,2005,0,2005,0,0
+OR,electricity,offshore wind,offshore wind 7,2005,0,2005,0,0
+CA,electricity,offshore wind,offshore wind 7,2010,0,2010,0,0
+HI,electricity,offshore wind,offshore wind 7,2010,0,2010,0,0
+ME,electricity,offshore wind,offshore wind 7,2010,0,2010,0,0
+OR,electricity,offshore wind,offshore wind 7,2010,0,2010,0,0

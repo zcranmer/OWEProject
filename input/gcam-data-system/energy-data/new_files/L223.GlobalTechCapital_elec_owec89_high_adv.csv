@@ -1,0 +1,27 @@
+INPUT_TABLE,,,,,,,
+Variable ID,,,,,,,
+GlobalTechCapital,,,,,,,
+,,,,,,,
+sector.name,subsector.name,technology,year,input.capital,capital.overnight,fixed.charge.rate,capacity.factor
+electricity,offshore wind,offshore_wind_storage_c89,1975,capital,1446.269999,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,1990,capital,1446.269999,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2005,capital,1446.269999,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2010,capital,1446.269999,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2015,capital,1446.269999,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2020,capital,1084.702499,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2025,capital,813.5268744,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2030,capital,610.1451558,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2035,capital,579.637898,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2040,capital,550.6560031,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2045,capital,523.123203,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2050,capital,496.9670428,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2055,capital,472.1186907,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2060,capital,448.5127562,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2065,capital,426.0871183,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2070,capital,404.7827624,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2075,capital,384.5436243,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2080,capital,365.3164431,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2085,capital,347.0506209,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2090,capital,329.6980899,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2095,capital,313.2131854,0.13,0.550029121
+electricity,offshore wind,offshore_wind_storage_c89,2100,capital,297.5525261,0.13,0.550029121

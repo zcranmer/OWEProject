@@ -1,0 +1,27 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+GlobalIntTechOMfixed,,,,,,
+,,,,,,
+sector.name,subsector.name,intermittent.technology,year,input.OM.fixed,OM.fixed,capacity.factor
+electricity,offshore wind,offshore wind c5,1975,OM-fixed,31.40877598,0.377128507
+electricity,offshore wind,offshore wind c5,1990,OM-fixed,31.40877598,0.377128507
+electricity,offshore wind,offshore wind c5,2005,OM-fixed,31.40877598,0.377128507
+electricity,offshore wind,offshore wind c5,2010,OM-fixed,31.40877598,0.377128507
+electricity,offshore wind,offshore wind c5,2015,OM-fixed,31.40877598,0.377128507
+electricity,offshore wind,offshore wind c5,2020,OM-fixed,23.55658199,0.377128507
+electricity,offshore wind,offshore wind c5,2025,OM-fixed,17.66743649,0.377128507
+electricity,offshore wind,offshore wind c5,2030,OM-fixed,13.25057737,0.377128507
+electricity,offshore wind,offshore wind c5,2035,OM-fixed,12.5880485,0.377128507
+electricity,offshore wind,offshore wind c5,2040,OM-fixed,11.95864607,0.377128507
+electricity,offshore wind,offshore wind c5,2045,OM-fixed,11.36071377,0.377128507
+electricity,offshore wind,offshore wind c5,2050,OM-fixed,10.79267808,0.377128507
+electricity,offshore wind,offshore wind c5,2055,OM-fixed,10.25304418,0.377128507
+electricity,offshore wind,offshore wind c5,2060,OM-fixed,9.740391969,0.377128507
+electricity,offshore wind,offshore wind c5,2065,OM-fixed,9.25337237,0.377128507
+electricity,offshore wind,offshore wind c5,2070,OM-fixed,8.790703752,0.377128507
+electricity,offshore wind,offshore wind c5,2075,OM-fixed,8.351168564,0.377128507
+electricity,offshore wind,offshore wind c5,2080,OM-fixed,7.933610136,0.377128507
+electricity,offshore wind,offshore wind c5,2085,OM-fixed,7.536929629,0.377128507
+electricity,offshore wind,offshore wind c5,2090,OM-fixed,7.160083148,0.377128507
+electricity,offshore wind,offshore wind c5,2095,OM-fixed,6.80207899,0.377128507
+electricity,offshore wind,offshore wind c5,2100,OM-fixed,6.461975041,0.377128507

@@ -1,0 +1,22 @@
+INPUT_TABLE,,,,
+Variable ID,,,,
+SubsectorShrwt,,,,
+,,,,
+region,supplysector,subsector,year,share.weight
+Africa_Eastern,electricity,offshore wind,2100,1
+Africa_Northern,electricity,offshore wind,2100,1
+Africa_Southern,electricity,offshore wind,2100,1
+Africa_Western,electricity,offshore wind,2100,1
+Australia_NZ,electricity,offshore wind,2100,1
+Canada,electricity,offshore wind,2100,1
+Central America and Caribbean,electricity,offshore wind,2100,1
+EU-15,electricity,offshore wind,2100,1
+European Free Trade Association,electricity,offshore wind,2100,1
+Mexico,electricity,offshore wind,2100,1
+Middle East,electricity,offshore wind,2100,1
+Russia,electricity,offshore wind,2100,1
+South America_Northern,electricity,offshore wind,2100,1
+South America_Southern,electricity,offshore wind,2100,1
+Southeast Asia,electricity,offshore wind,2100,1
+Argentina,electricity,offshore wind,2100,1
+Colombia,electricity,offshore wind,2100,1

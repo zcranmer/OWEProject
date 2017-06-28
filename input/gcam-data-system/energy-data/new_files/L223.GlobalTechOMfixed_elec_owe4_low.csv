@@ -1,0 +1,27 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+GlobalTechOMfixed,,,,,,
+,,,,,,
+sector.name,subsector.name,technology,year,input.OM.fixed,OM.fixed,capacity.factor
+electricity,offshore wind,offshore_wind_storage_4,1975,OM-fixed,149.423,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,1990,OM-fixed,149.423,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2005,OM-fixed,149.423,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2010,OM-fixed,149.423,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2015,OM-fixed,149.423,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2020,OM-fixed,142.9158694,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2025,OM-fixed,137.6137629,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2030,OM-fixed,132.7936661,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2035,OM-fixed,128.9375887,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2040,OM-fixed,125.563521,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2045,OM-fixed,122.4304581,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2050,OM-fixed,120.0204097,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2055,OM-fixed,117.8513661,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2060,OM-fixed,115.9233274,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2065,OM-fixed,114.2362935,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2070,OM-fixed,113.0312694,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2075,OM-fixed,111.8262452,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2080,OM-fixed,110.621221,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2085,OM-fixed,109.8982065,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2090,OM-fixed,109.1751919,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2095,OM-fixed,108.4521774,0.447005714
+electricity,offshore wind,offshore_wind_storage_4,2100,OM-fixed,107.9701677,0.447005714

@@ -1,0 +1,27 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+GlobalTechOMfixed,,,,,,
+,,,,,,
+sector.name,subsector.name,technology,year,input.OM.fixed,OM.fixed,capacity.factor
+electricity,offshore wind,offshore_wind_storage_5,1975,OM-fixed,166.373,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,1990,OM-fixed,166.373,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2005,OM-fixed,166.373,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2010,OM-fixed,166.373,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2015,OM-fixed,166.373,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2020,OM-fixed,124.77975,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2025,OM-fixed,93.5848125,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2030,OM-fixed,70.18860938,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2035,OM-fixed,66.67917891,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2040,OM-fixed,63.34521996,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2045,OM-fixed,60.17795896,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2050,OM-fixed,57.16906101,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2055,OM-fixed,54.31060796,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2060,OM-fixed,51.59507757,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2065,OM-fixed,49.01532369,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2070,OM-fixed,46.5645575,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2075,OM-fixed,44.23632963,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2080,OM-fixed,42.02451315,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2085,OM-fixed,39.92328749,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2090,OM-fixed,37.92712311,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2095,OM-fixed,36.03076696,0.406825425
+electricity,offshore wind,offshore_wind_storage_5,2100,OM-fixed,34.22922861,0.406825425

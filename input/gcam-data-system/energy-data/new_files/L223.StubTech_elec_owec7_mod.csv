@@ -1,0 +1,41 @@
+INPUT_TABLE,,,
+Variable ID,,,
+StubTech,,,
+,,,
+region,supplysector,subsector,stub.technology
+Africa_Eastern,electricity,offshore wind,offshore wind c7
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c7
+Africa_Northern,electricity,offshore wind,offshore wind c7
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c7
+Africa_Southern,electricity,offshore wind,offshore wind c7
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c7
+Africa_Western,electricity,offshore wind,offshore wind c7
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c7
+Australia_NZ,electricity,offshore wind,offshore wind c7
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c7
+Canada,electricity,offshore wind,offshore wind c7
+Canada,electricity,offshore wind,offshore_wind_storage_c7
+Central America and Caribbean,electricity,offshore wind,offshore wind c7
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c7
+China,electricity,offshore wind,offshore wind c7
+China,electricity,offshore wind,offshore_wind_storage_c7
+EU-15,electricity,offshore wind,offshore wind c7
+EU-15,electricity,offshore wind,offshore_wind_storage_c7
+European Free Trade Association,electricity,offshore wind,offshore wind c7
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c7
+Middle East,electricity,offshore wind,offshore wind c7
+Middle East,electricity,offshore wind,offshore_wind_storage_c7
+Russia,electricity,offshore wind,offshore wind c7
+Russia,electricity,offshore wind,offshore_wind_storage_c7
+South America_Northern,electricity,offshore wind,offshore wind c7
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c7
+South America_Southern,electricity,offshore wind,offshore wind c7
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c7
+Southeast Asia,electricity,offshore wind,offshore wind c7
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c7
+Taiwan,electricity,offshore wind,offshore wind c7
+Taiwan,electricity,offshore wind,offshore_wind_storage_c7
+Argentina,electricity,offshore wind,offshore wind c7
+Argentina,electricity,offshore wind,offshore_wind_storage_c7
+Colombia,electricity,offshore wind,offshore wind c7
+Colombia,electricity,offshore wind,offshore_wind_storage_c7

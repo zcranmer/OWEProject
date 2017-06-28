@@ -1,0 +1,31 @@
+INPUT_TABLE,,,,
+Variable ID,,,,
+SubsectorLogit,,,,
+,,,,
+region,supplysector,subsector,logit.year.fillout,logit.exponent
+CA,electricity,offshore wind,1975,-6
+CT,electricity,offshore wind,1975,-6
+DE,electricity,offshore wind,1975,-6
+GA,electricity,offshore wind,1975,-6
+HI,electricity,offshore wind,1975,-6
+IL,electricity,offshore wind,1975,-6
+IN,electricity,offshore wind,1975,-6
+LA,electricity,offshore wind,1975,-6
+ME,electricity,offshore wind,1975,-6
+MD,electricity,offshore wind,1975,-6
+MA,electricity,offshore wind,1975,-6
+MI,electricity,offshore wind,1975,-6
+MN,electricity,offshore wind,1975,-6
+NH,electricity,offshore wind,1975,-6
+NJ,electricity,offshore wind,1975,-6
+NY,electricity,offshore wind,1975,-6
+NC,electricity,offshore wind,1975,-6
+OH,electricity,offshore wind,1975,-6
+OR,electricity,offshore wind,1975,-6
+PA,electricity,offshore wind,1975,-6
+RI,electricity,offshore wind,1975,-6
+SC,electricity,offshore wind,1975,-6
+TX,electricity,offshore wind,1975,-6
+VA,electricity,offshore wind,1975,-6
+WA,electricity,offshore wind,1975,-6
+WI,electricity,offshore wind,1975,-6

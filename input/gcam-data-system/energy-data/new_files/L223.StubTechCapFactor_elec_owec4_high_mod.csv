@@ -1,0 +1,1325 @@
+INPUT_TABLE,,,,,,,,
+Variable ID,,,,,,,,
+StubTechCapFactor,,,,,,,,
+,,,,,,,,
+region,supplysector,subsector,stub.technology,year,input.capital,capacity.factor.capital,input.OM.fixed,capacity.factor.OM
+Africa_Eastern,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore wind c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,1975,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,1990,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2005,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2010,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2015,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2020,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2025,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2030,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2035,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2040,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2045,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2050,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2055,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2060,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2065,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2070,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2075,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2080,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2085,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2090,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2095,capital,0.255206899,OM-fixed,0.255206899
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Brazil,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Canada,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+China,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+EU-12,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+EU-15,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Europe_Eastern,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+India,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Indonesia,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Japan,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Mexico,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Middle East,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Pakistan,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Russia,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+South Africa,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+South Asia,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+South Korea,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Taiwan,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Argentina,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899
+Colombia,electricity,offshore wind,offshore_wind_storage_c4,2100,capital,0.255206899,OM-fixed,0.255206899

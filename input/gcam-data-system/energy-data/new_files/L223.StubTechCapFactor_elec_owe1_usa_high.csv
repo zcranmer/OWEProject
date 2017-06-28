@@ -1,0 +1,1149 @@
+INPUT_TABLE,,,,,,,,
+Variable ID,,,,,,,,
+StubTechCapFactor,,,,,,,,
+,,,,,,,,
+region,supplysector,subsector,stub.technology,year,input.capital,capacity.factor.capital,input.OM.fixed,capacity.factor.OM
+CA,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,1975,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,1990,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2005,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2010,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2015,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2020,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2025,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2030,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2035,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2040,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2045,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2050,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2055,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2060,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2065,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2070,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2075,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2080,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2085,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2090,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2095,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore wind 1,2100,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,1975,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,1990,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2005,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2010,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2015,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2020,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2025,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2030,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2035,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2040,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2045,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2050,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2055,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2060,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2065,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2070,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2075,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2080,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2085,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2090,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2095,capital,0.270515056,OM-fixed,0.270515056
+CA,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+CT,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+DE,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+GA,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+HI,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+IL,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+IN,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+LA,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+ME,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+MD,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+MA,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+MI,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+MN,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+NH,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+NJ,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+NY,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+NC,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+OH,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+OR,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+PA,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+RI,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+SC,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+TX,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+VA,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+WA,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056
+WI,electricity,offshore wind,offshore_wind_storage_1,2100,capital,0.270515056,OM-fixed,0.270515056

@@ -1,0 +1,27 @@
+INPUT_TABLE,,,,,
+Variable ID,,,,,
+GlobalIntTechEff,,,,,
+,,,,,
+sector.name,subsector.name,intermittent.technology,year,minicam.energy.input,efficiency
+electricity,offshore wind,offshore wind 3,1975,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,1990,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2005,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2010,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2015,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2020,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2025,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2030,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2035,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2040,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2045,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2050,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2055,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2060,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2065,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2070,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2075,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2080,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2085,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2090,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2095,offshore wind resource 3,1
+electricity,offshore wind,offshore wind 3,2100,offshore wind resource 3,1

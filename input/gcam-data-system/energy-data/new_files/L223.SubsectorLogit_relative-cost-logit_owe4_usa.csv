@@ -1,0 +1,23 @@
+INPUT_TABLE,,,
+Variable ID,,,
+SubsectorLogit_relative-cost-logit,,,
+,,,
+region,supplysector,subsector,logit.type
+CA,electricity,offshore wind,relative-cost-logit
+DE,electricity,offshore wind,relative-cost-logit
+HI,electricity,offshore wind,relative-cost-logit
+IL,electricity,offshore wind,relative-cost-logit
+ME,electricity,offshore wind,relative-cost-logit
+MD,electricity,offshore wind,relative-cost-logit
+MA,electricity,offshore wind,relative-cost-logit
+MI,electricity,offshore wind,relative-cost-logit
+NH,electricity,offshore wind,relative-cost-logit
+NJ,electricity,offshore wind,relative-cost-logit
+NY,electricity,offshore wind,relative-cost-logit
+NC,electricity,offshore wind,relative-cost-logit
+OR,electricity,offshore wind,relative-cost-logit
+RI,electricity,offshore wind,relative-cost-logit
+SC,electricity,offshore wind,relative-cost-logit
+TX,electricity,offshore wind,relative-cost-logit
+VA,electricity,offshore wind,relative-cost-logit
+WI,electricity,offshore wind,relative-cost-logit

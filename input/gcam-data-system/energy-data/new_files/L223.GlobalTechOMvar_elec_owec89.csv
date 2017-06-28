@@ -1,0 +1,27 @@
+INPUT_TABLE,,,,,
+Variable ID,,,,,
+GlobalTechOMvar,,,,,
+,,,,,
+sector.name,subsector.name,technology,year,input.OM.var,OM.var
+electricity,offshore wind,offshore_wind_storage_c89,1975,OM-var,3.91
+electricity,offshore wind,offshore_wind_storage_c89,1990,OM-var,3.91
+electricity,offshore wind,offshore_wind_storage_c89,2005,OM-var,3.91
+electricity,offshore wind,offshore_wind_storage_c89,2010,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2015,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2020,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2025,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2030,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2035,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2040,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2045,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2050,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2055,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2060,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2065,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2070,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2075,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2080,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2085,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2090,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2095,OM-var,0
+electricity,offshore wind,offshore_wind_storage_c89,2100,OM-var,0

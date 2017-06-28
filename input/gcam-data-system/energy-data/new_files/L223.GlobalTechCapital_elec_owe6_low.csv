@@ -1,0 +1,27 @@
+INPUT_TABLE,,,,,,,
+Variable ID,,,,,,,
+GlobalTechCapital,,,,,,,
+,,,,,,,
+sector.name,subsector.name,technology,year,input.capital,capital.overnight,fixed.charge.rate,capacity.factor
+electricity,offshore wind,offshore_wind_storage_6,1975,capital,1916.024061,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,1990,capital,1916.024061,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2005,capital,1916.024061,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2010,capital,1916.024061,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2015,capital,1916.024061,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2020,capital,1832.584303,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2025,capital,1764.596353,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2030,capital,1702.789125,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2035,capital,1653.343343,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2040,capital,1610.078283,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2045,capital,1569.903585,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2050,capital,1538.999972,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2055,capital,1511.186719,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2060,capital,1486.463828,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2065,capital,1464.831298,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2070,capital,1449.379491,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2075,capital,1433.927684,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2080,capital,1418.475877,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2085,capital,1409.204793,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2090,capital,1399.933709,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2095,capital,1390.662625,0.13,0.504506188
+electricity,offshore wind,offshore_wind_storage_6,2100,capital,1384.481902,0.13,0.504506188

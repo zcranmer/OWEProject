@@ -1,0 +1,29 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+SubsectorInterp,,,,,,
+,,,,,,
+region,supplysector,subsector,apply.to,from.year,to.year,interpolation.function
+CA,electricity,offshore wind,share-weight,2010,2100,linear
+CT,electricity,offshore wind,share-weight,2010,2100,linear
+DE,electricity,offshore wind,share-weight,2010,2100,linear
+GA,electricity,offshore wind,share-weight,2010,2100,linear
+HI,electricity,offshore wind,share-weight,2010,2100,linear
+IL,electricity,offshore wind,share-weight,2010,2100,linear
+IN,electricity,offshore wind,share-weight,2010,2100,linear
+ME,electricity,offshore wind,share-weight,2010,2100,linear
+MD,electricity,offshore wind,share-weight,2010,2100,linear
+MA,electricity,offshore wind,share-weight,2010,2100,linear
+MI,electricity,offshore wind,share-weight,2010,2100,linear
+NH,electricity,offshore wind,share-weight,2010,2100,linear
+NJ,electricity,offshore wind,share-weight,2010,2100,linear
+NY,electricity,offshore wind,share-weight,2010,2100,linear
+NC,electricity,offshore wind,share-weight,2010,2100,linear
+OH,electricity,offshore wind,share-weight,2010,2100,linear
+OR,electricity,offshore wind,share-weight,2010,2100,linear
+PA,electricity,offshore wind,share-weight,2010,2100,linear
+RI,electricity,offshore wind,share-weight,2010,2100,linear
+SC,electricity,offshore wind,share-weight,2010,2100,linear
+TX,electricity,offshore wind,share-weight,2010,2100,linear
+VA,electricity,offshore wind,share-weight,2010,2100,linear
+WA,electricity,offshore wind,share-weight,2010,2100,linear
+WI,electricity,offshore wind,share-weight,2010,2100,linear

@@ -1,0 +1,25 @@
+INPUT_TABLE,,,
+Variable ID,,,
+StubTech,,,
+,,,
+region,supplysector,subsector,stub.technology
+CA,electricity,offshore wind,offshore wind 5
+CA,electricity,offshore wind,offshore_wind_storage_5
+HI,electricity,offshore wind,offshore wind 5
+HI,electricity,offshore wind,offshore_wind_storage_5
+ME,electricity,offshore wind,offshore wind 5
+ME,electricity,offshore wind,offshore_wind_storage_5
+MA,electricity,offshore wind,offshore wind 5
+MA,electricity,offshore wind,offshore_wind_storage_5
+MI,electricity,offshore wind,offshore wind 5
+MI,electricity,offshore wind,offshore_wind_storage_5
+NH,electricity,offshore wind,offshore wind 5
+NH,electricity,offshore wind,offshore_wind_storage_5
+NY,electricity,offshore wind,offshore wind 5
+NY,electricity,offshore wind,offshore_wind_storage_5
+NC,electricity,offshore wind,offshore wind 5
+NC,electricity,offshore wind,offshore_wind_storage_5
+OR,electricity,offshore wind,offshore wind 5
+OR,electricity,offshore wind,offshore_wind_storage_5
+RI,electricity,offshore wind,offshore wind 5
+RI,electricity,offshore wind,offshore_wind_storage_5

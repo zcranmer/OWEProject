@@ -1,0 +1,27 @@
+INPUT_TABLE,,,,
+Variable ID,,,,
+GlobalTechShrwt,,,,
+,,,,
+sector.name,subsector.name,technology,year,share.weight
+electricity,offshore wind,offshore_wind_storage_4,1975,0
+electricity,offshore wind,offshore_wind_storage_4,1990,0
+electricity,offshore wind,offshore_wind_storage_4,2005,0
+electricity,offshore wind,offshore_wind_storage_4,2010,0
+electricity,offshore wind,offshore_wind_storage_4,2015,0.25
+electricity,offshore wind,offshore_wind_storage_4,2020,0.5
+electricity,offshore wind,offshore_wind_storage_4,2025,0.75
+electricity,offshore wind,offshore_wind_storage_4,2030,1
+electricity,offshore wind,offshore_wind_storage_4,2035,1
+electricity,offshore wind,offshore_wind_storage_4,2040,1
+electricity,offshore wind,offshore_wind_storage_4,2045,1
+electricity,offshore wind,offshore_wind_storage_4,2050,1
+electricity,offshore wind,offshore_wind_storage_4,2055,1
+electricity,offshore wind,offshore_wind_storage_4,2060,1
+electricity,offshore wind,offshore_wind_storage_4,2065,1
+electricity,offshore wind,offshore_wind_storage_4,2070,1
+electricity,offshore wind,offshore_wind_storage_4,2075,1
+electricity,offshore wind,offshore_wind_storage_4,2080,1
+electricity,offshore wind,offshore_wind_storage_4,2085,1
+electricity,offshore wind,offshore_wind_storage_4,2090,1
+electricity,offshore wind,offshore_wind_storage_4,2095,1
+electricity,offshore wind,offshore_wind_storage_4,2100,1

@@ -1,0 +1,61 @@
+INPUT_TABLE,,,
+Variable ID,,,
+StubTech,,,
+,,,
+region,supplysector,subsector,stub.technology
+Africa_Eastern,electricity,offshore wind,offshore wind c5
+Africa_Eastern,electricity,offshore wind,offshore_wind_storage_c5
+Africa_Northern,electricity,offshore wind,offshore wind c5
+Africa_Northern,electricity,offshore wind,offshore_wind_storage_c5
+Africa_Southern,electricity,offshore wind,offshore wind c5
+Africa_Southern,electricity,offshore wind,offshore_wind_storage_c5
+Africa_Western,electricity,offshore wind,offshore wind c5
+Africa_Western,electricity,offshore wind,offshore_wind_storage_c5
+Australia_NZ,electricity,offshore wind,offshore wind c5
+Australia_NZ,electricity,offshore wind,offshore_wind_storage_c5
+Brazil,electricity,offshore wind,offshore wind c5
+Brazil,electricity,offshore wind,offshore_wind_storage_c5
+Canada,electricity,offshore wind,offshore wind c5
+Canada,electricity,offshore wind,offshore_wind_storage_c5
+Central America and Caribbean,electricity,offshore wind,offshore wind c5
+Central America and Caribbean,electricity,offshore wind,offshore_wind_storage_c5
+China,electricity,offshore wind,offshore wind c5
+China,electricity,offshore wind,offshore_wind_storage_c5
+EU-12,electricity,offshore wind,offshore wind c5
+EU-12,electricity,offshore wind,offshore_wind_storage_c5
+EU-15,electricity,offshore wind,offshore wind c5
+EU-15,electricity,offshore wind,offshore_wind_storage_c5
+Europe_Non_EU,electricity,offshore wind,offshore wind c5
+Europe_Non_EU,electricity,offshore wind,offshore_wind_storage_c5
+European Free Trade Association,electricity,offshore wind,offshore wind c5
+European Free Trade Association,electricity,offshore wind,offshore_wind_storage_c5
+India,electricity,offshore wind,offshore wind c5
+India,electricity,offshore wind,offshore_wind_storage_c5
+Indonesia,electricity,offshore wind,offshore wind c5
+Indonesia,electricity,offshore wind,offshore_wind_storage_c5
+Japan,electricity,offshore wind,offshore wind c5
+Japan,electricity,offshore wind,offshore_wind_storage_c5
+Mexico,electricity,offshore wind,offshore wind c5
+Mexico,electricity,offshore wind,offshore_wind_storage_c5
+Middle East,electricity,offshore wind,offshore wind c5
+Middle East,electricity,offshore wind,offshore_wind_storage_c5
+Russia,electricity,offshore wind,offshore wind c5
+Russia,electricity,offshore wind,offshore_wind_storage_c5
+South Africa,electricity,offshore wind,offshore wind c5
+South Africa,electricity,offshore wind,offshore_wind_storage_c5
+South America_Northern,electricity,offshore wind,offshore wind c5
+South America_Northern,electricity,offshore wind,offshore_wind_storage_c5
+South America_Southern,electricity,offshore wind,offshore wind c5
+South America_Southern,electricity,offshore wind,offshore_wind_storage_c5
+South Asia,electricity,offshore wind,offshore wind c5
+South Asia,electricity,offshore wind,offshore_wind_storage_c5
+South Korea,electricity,offshore wind,offshore wind c5
+South Korea,electricity,offshore wind,offshore_wind_storage_c5
+Southeast Asia,electricity,offshore wind,offshore wind c5
+Southeast Asia,electricity,offshore wind,offshore_wind_storage_c5
+Taiwan,electricity,offshore wind,offshore wind c5
+Taiwan,electricity,offshore wind,offshore_wind_storage_c5
+Argentina,electricity,offshore wind,offshore wind c5
+Argentina,electricity,offshore wind,offshore_wind_storage_c5
+Colombia,electricity,offshore wind,offshore wind c5
+Colombia,electricity,offshore wind,offshore_wind_storage_c5

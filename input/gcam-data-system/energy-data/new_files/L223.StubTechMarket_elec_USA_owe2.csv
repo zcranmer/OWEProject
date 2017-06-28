@@ -1,0 +1,1149 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+StubTechMarket,,,,,,
+,,,,,,
+region,supplysector,subsector,stub.technology,year,minicam.energy.input,market.name
+CA,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,1975,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,1975,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,1990,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,1990,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2005,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2005,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2010,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2010,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2015,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2015,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2020,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2020,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2025,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2025,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2030,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2030,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2035,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2035,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2040,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2040,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2045,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2045,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2050,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2050,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2055,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2055,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2060,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2060,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2065,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2065,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2070,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2070,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2075,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2075,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2080,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2080,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2085,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2085,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2090,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2090,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2095,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2095,offshore wind resource 2,WI
+CA,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,CA
+CA,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,CA
+CT,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,CT
+CT,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,CT
+DE,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,DE
+DE,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,DE
+GA,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,GA
+GA,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,GA
+HI,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,HI
+HI,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,HI
+IL,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,IL
+IL,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,IL
+IN,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,IN
+IN,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,IN
+LA,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,LA
+LA,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,LA
+MA,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,MA
+MA,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,MA
+MD,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,MD
+MD,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,MD
+ME,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,ME
+ME,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,ME
+MI,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,MI
+MI,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,MI
+MN,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,MN
+MN,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,MN
+NC,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,NC
+NC,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,NC
+NH,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,NH
+NH,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,NH
+NJ,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,NJ
+NJ,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,NJ
+NY,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,NY
+NY,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,NY
+OH,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,OH
+OH,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,OH
+OR,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,OR
+OR,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,OR
+PA,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,PA
+PA,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,PA
+RI,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,RI
+RI,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,RI
+SC,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,SC
+SC,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,SC
+TX,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,TX
+TX,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,TX
+VA,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,VA
+VA,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,VA
+WA,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,WA
+WA,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,WA
+WI,electricity,offshore wind,offshore wind 2,2100,offshore wind resource 2,WI
+WI,electricity,offshore wind,offshore_wind_storage_2,2100,offshore wind resource 2,WI

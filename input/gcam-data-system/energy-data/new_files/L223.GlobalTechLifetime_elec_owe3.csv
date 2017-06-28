@@ -1,0 +1,23 @@
+INPUT_TABLE,,,,
+Variable ID,,,,
+GlobalTechLifetime,,,,
+,,,,
+sector.name,subsector.name,technology,year,lifetime
+electricity,offshore wind,offshore_wind_storage_3,2015,30
+electricity,offshore wind,offshore_wind_storage_3,2020,30
+electricity,offshore wind,offshore_wind_storage_3,2025,30
+electricity,offshore wind,offshore_wind_storage_3,2030,30
+electricity,offshore wind,offshore_wind_storage_3,2035,30
+electricity,offshore wind,offshore_wind_storage_3,2040,30
+electricity,offshore wind,offshore_wind_storage_3,2045,30
+electricity,offshore wind,offshore_wind_storage_3,2050,30
+electricity,offshore wind,offshore_wind_storage_3,2055,30
+electricity,offshore wind,offshore_wind_storage_3,2060,30
+electricity,offshore wind,offshore_wind_storage_3,2065,30
+electricity,offshore wind,offshore_wind_storage_3,2070,30
+electricity,offshore wind,offshore_wind_storage_3,2075,30
+electricity,offshore wind,offshore_wind_storage_3,2080,30
+electricity,offshore wind,offshore_wind_storage_3,2085,30
+electricity,offshore wind,offshore_wind_storage_3,2090,30
+electricity,offshore wind,offshore_wind_storage_3,2095,30
+electricity,offshore wind,offshore_wind_storage_3,2100,30

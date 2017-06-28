@@ -1,0 +1,125 @@
+INPUT_TABLE,,,,,,,,
+Variable ID,,,,,,,,
+StubTechProd,,,,,,,,
+,,,,,,,,
+region,supplysector,subsector,stub.technology,year,calOutputValue,share.weight.year,subs.share.weight,share.weight
+Africa_Eastern,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Africa_Northern,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Africa_Southern,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Africa_Western,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Australia_NZ,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Brazil,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Canada,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+China,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+EU-12,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+EU-15,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Europe_Eastern,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+European Free Trade Association,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+India,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Indonesia,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Japan,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Mexico,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Middle East,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Pakistan,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Russia,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+South Africa,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+South America_Northern,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+South America_Southern,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+South Asia,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+South Korea,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Southeast Asia,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Taiwan,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Argentina,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Colombia,electricity,offshore wind,offshore wind c4,1975,0,1975,0,0
+Africa_Eastern,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Africa_Northern,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Africa_Southern,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Africa_Western,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Australia_NZ,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Brazil,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Canada,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+China,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+EU-12,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+EU-15,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Europe_Eastern,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+European Free Trade Association,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+India,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Indonesia,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Japan,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Mexico,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Middle East,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Pakistan,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Russia,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+South Africa,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+South America_Northern,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+South America_Southern,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+South Asia,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+South Korea,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Southeast Asia,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Taiwan,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Argentina,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Colombia,electricity,offshore wind,offshore wind c4,1990,0,1990,0,0
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Africa_Northern,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Africa_Southern,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Africa_Western,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Australia_NZ,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Brazil,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Canada,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+China,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+EU-12,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+EU-15,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+India,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Indonesia,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Japan,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Mexico,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Middle East,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Pakistan,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Russia,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+South Africa,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+South America_Northern,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+South America_Southern,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+South Asia,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+South Korea,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Southeast Asia,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Taiwan,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Argentina,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Colombia,electricity,offshore wind,offshore wind c4,2005,0,2005,0,0
+Africa_Eastern,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Africa_Northern,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Africa_Southern,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Africa_Western,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Australia_NZ,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Brazil,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Canada,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Central America and Caribbean,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+China,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+EU-12,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+EU-15,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Europe_Eastern,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Europe_Non_EU,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+European Free Trade Association,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+India,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Indonesia,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Japan,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Mexico,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Middle East,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Pakistan,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Russia,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+South Africa,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+South America_Northern,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+South America_Southern,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+South Asia,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+South Korea,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Southeast Asia,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Taiwan,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Argentina,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0
+Colombia,electricity,offshore wind,offshore wind c4,2010,0,2010,0,0

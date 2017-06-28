@@ -1,0 +1,27 @@
+INPUT_TABLE,,,,,
+Variable ID,,,,,
+GlobalTechEff,,,,,
+,,,,,
+sector.name,subsector.name,technology,year,minicam.energy.input,efficiency
+electricity,offshore wind,offshore_wind_storage_1,1975,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,1990,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2005,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2010,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2015,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2020,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2025,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2030,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2035,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2040,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2045,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2050,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2055,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2060,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2065,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2070,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2075,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2080,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2085,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2090,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2095,offshore wind resource 1,0.96
+electricity,offshore wind,offshore_wind_storage_1,2100,offshore wind resource 1,0.96

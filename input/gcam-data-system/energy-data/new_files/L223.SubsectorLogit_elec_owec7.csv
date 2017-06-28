@@ -1,0 +1,23 @@
+INPUT_TABLE,,,,
+Variable ID,,,,
+SubsectorLogit,,,,
+,,,,
+region,supplysector,subsector,logit.year.fillout,logit.exponent
+Africa_Eastern,electricity,offshore wind,1975,-6
+Africa_Northern,electricity,offshore wind,1975,-6
+Africa_Southern,electricity,offshore wind,1975,-6
+Africa_Western,electricity,offshore wind,1975,-6
+Australia_NZ,electricity,offshore wind,1975,-6
+Canada,electricity,offshore wind,1975,-6
+Central America and Caribbean,electricity,offshore wind,1975,-6
+China,electricity,offshore wind,1975,-6
+EU-15,electricity,offshore wind,1975,-6
+European Free Trade Association,electricity,offshore wind,1975,-6
+Middle East,electricity,offshore wind,1975,-6
+Russia,electricity,offshore wind,1975,-6
+South America_Northern,electricity,offshore wind,1975,-6
+South America_Southern,electricity,offshore wind,1975,-6
+Southeast Asia,electricity,offshore wind,1975,-6
+Taiwan,electricity,offshore wind,1975,-6
+Argentina,electricity,offshore wind,1975,-6
+Colombia,electricity,offshore wind,1975,-6

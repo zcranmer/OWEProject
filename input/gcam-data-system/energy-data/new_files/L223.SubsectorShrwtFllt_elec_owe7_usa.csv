@@ -1,0 +1,9 @@
+INPUT_TABLE,,,,
+Variable ID,,,,
+SubsectorShrwtFllt,,,,
+,,,,
+region,supplysector,subsector,year.fillout,share.weight
+CA,electricity,offshore wind,2100,1
+HI,electricity,offshore wind,2100,1
+ME,electricity,offshore wind,2100,1
+OR,electricity,offshore wind,2100,1

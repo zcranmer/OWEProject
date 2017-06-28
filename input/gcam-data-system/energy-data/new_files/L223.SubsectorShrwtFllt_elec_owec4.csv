@@ -1,0 +1,35 @@
+INPUT_TABLE,,,,
+Variable ID,,,,
+SubsectorShrwtFllt,,,,
+,,,,
+region,supplysector,subsector,year.fillout,share.weight
+Africa_Eastern,electricity,offshore wind,2100,1
+Africa_Northern,electricity,offshore wind,2100,1
+Africa_Southern,electricity,offshore wind,2100,1
+Africa_Western,electricity,offshore wind,2100,1
+Australia_NZ,electricity,offshore wind,2100,1
+Brazil,electricity,offshore wind,2100,1
+Canada,electricity,offshore wind,2100,1
+Central America and Caribbean,electricity,offshore wind,2100,1
+China,electricity,offshore wind,2100,1
+EU-12,electricity,offshore wind,2100,1
+EU-15,electricity,offshore wind,2100,1
+Europe_Eastern,electricity,offshore wind,2100,1
+Europe_Non_EU,electricity,offshore wind,2100,1
+European Free Trade Association,electricity,offshore wind,2100,1
+India,electricity,offshore wind,2100,1
+Indonesia,electricity,offshore wind,2100,1
+Japan,electricity,offshore wind,2100,1
+Mexico,electricity,offshore wind,2100,1
+Middle East,electricity,offshore wind,2100,1
+Pakistan,electricity,offshore wind,2100,1
+Russia,electricity,offshore wind,2100,1
+South Africa,electricity,offshore wind,2100,1
+South America_Northern,electricity,offshore wind,2100,1
+South America_Southern,electricity,offshore wind,2100,1
+South Asia,electricity,offshore wind,2100,1
+South Korea,electricity,offshore wind,2100,1
+Southeast Asia,electricity,offshore wind,2100,1
+Taiwan,electricity,offshore wind,2100,1
+Argentina,electricity,offshore wind,2100,1
+Colombia,electricity,offshore wind,2100,1

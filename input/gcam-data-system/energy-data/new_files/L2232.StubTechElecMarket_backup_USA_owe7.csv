@@ -1,0 +1,93 @@
+INPUT_TABLE,,,,,
+Variable ID,,,,,
+StubTechElecMarket,,,,,
+,,,,,
+region,supplysector,subsector,stub.technology,year,electric.sector.market
+CA,electricity,offshore wind,offshore wind 7,1975,California grid
+CA,electricity,offshore wind,offshore wind 7,1990,California grid
+CA,electricity,offshore wind,offshore wind 7,2005,California grid
+CA,electricity,offshore wind,offshore wind 7,2010,California grid
+CA,electricity,offshore wind,offshore wind 7,2015,California grid
+CA,electricity,offshore wind,offshore wind 7,2020,California grid
+CA,electricity,offshore wind,offshore wind 7,2025,California grid
+CA,electricity,offshore wind,offshore wind 7,2030,California grid
+CA,electricity,offshore wind,offshore wind 7,2035,California grid
+CA,electricity,offshore wind,offshore wind 7,2040,California grid
+CA,electricity,offshore wind,offshore wind 7,2045,California grid
+CA,electricity,offshore wind,offshore wind 7,2050,California grid
+CA,electricity,offshore wind,offshore wind 7,2055,California grid
+CA,electricity,offshore wind,offshore wind 7,2060,California grid
+CA,electricity,offshore wind,offshore wind 7,2065,California grid
+CA,electricity,offshore wind,offshore wind 7,2070,California grid
+CA,electricity,offshore wind,offshore wind 7,2075,California grid
+CA,electricity,offshore wind,offshore wind 7,2080,California grid
+CA,electricity,offshore wind,offshore wind 7,2085,California grid
+CA,electricity,offshore wind,offshore wind 7,2090,California grid
+CA,electricity,offshore wind,offshore wind 7,2095,California grid
+CA,electricity,offshore wind,offshore wind 7,2100,California grid
+HI,electricity,offshore wind,offshore wind 7,1975,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,1990,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2005,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2010,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2015,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2020,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2025,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2030,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2035,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2040,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2045,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2050,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2055,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2060,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2065,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2070,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2075,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2080,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2085,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2090,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2095,Hawaii grid
+HI,electricity,offshore wind,offshore wind 7,2100,Hawaii grid
+ME,electricity,offshore wind,offshore wind 7,1975,New England grid
+ME,electricity,offshore wind,offshore wind 7,1990,New England grid
+ME,electricity,offshore wind,offshore wind 7,2005,New England grid
+ME,electricity,offshore wind,offshore wind 7,2010,New England grid
+ME,electricity,offshore wind,offshore wind 7,2015,New England grid
+ME,electricity,offshore wind,offshore wind 7,2020,New England grid
+ME,electricity,offshore wind,offshore wind 7,2025,New England grid
+ME,electricity,offshore wind,offshore wind 7,2030,New England grid
+ME,electricity,offshore wind,offshore wind 7,2035,New England grid
+ME,electricity,offshore wind,offshore wind 7,2040,New England grid
+ME,electricity,offshore wind,offshore wind 7,2045,New England grid
+ME,electricity,offshore wind,offshore wind 7,2050,New England grid
+ME,electricity,offshore wind,offshore wind 7,2055,New England grid
+ME,electricity,offshore wind,offshore wind 7,2060,New England grid
+ME,electricity,offshore wind,offshore wind 7,2065,New England grid
+ME,electricity,offshore wind,offshore wind 7,2070,New England grid
+ME,electricity,offshore wind,offshore wind 7,2075,New England grid
+ME,electricity,offshore wind,offshore wind 7,2080,New England grid
+ME,electricity,offshore wind,offshore wind 7,2085,New England grid
+ME,electricity,offshore wind,offshore wind 7,2090,New England grid
+ME,electricity,offshore wind,offshore wind 7,2095,New England grid
+ME,electricity,offshore wind,offshore wind 7,2100,New England grid
+OR,electricity,offshore wind,offshore wind 7,1975,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,1990,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2005,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2010,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2015,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2020,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2025,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2030,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2035,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2040,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2045,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2050,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2055,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2060,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2065,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2070,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2075,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2080,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2085,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2090,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2095,Northwest grid
+OR,electricity,offshore wind,offshore wind 7,2100,Northwest grid

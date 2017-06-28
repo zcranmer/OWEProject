@@ -1,0 +1,27 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+GlobalTechOMfixed,,,,,,
+,,,,,,
+sector.name,subsector.name,technology,year,input.OM.fixed,OM.fixed,capacity.factor
+electricity,offshore wind,offshore_wind_storage_c5,1975,OM-fixed,34.50877598,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,1990,OM-fixed,34.50877598,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2005,OM-fixed,34.50877598,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2010,OM-fixed,34.50877598,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2015,OM-fixed,34.50877598,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2020,OM-fixed,25.88158199,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2025,OM-fixed,19.41118649,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2030,OM-fixed,14.55838987,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2035,OM-fixed,13.83047037,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2040,OM-fixed,13.13894686,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2045,OM-fixed,12.48199951,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2050,OM-fixed,11.85789954,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2055,OM-fixed,11.26500456,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2060,OM-fixed,10.70175433,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2065,OM-fixed,10.16666662,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2070,OM-fixed,9.658333285,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2075,OM-fixed,9.17541662,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2080,OM-fixed,8.716645789,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2085,OM-fixed,8.2808135,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2090,OM-fixed,7.866772825,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2095,OM-fixed,7.473434184,0.377128507
+electricity,offshore wind,offshore_wind_storage_c5,2100,OM-fixed,7.099762474,0.377128507

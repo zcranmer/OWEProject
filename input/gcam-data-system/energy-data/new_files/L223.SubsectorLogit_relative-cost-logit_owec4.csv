@@ -1,0 +1,35 @@
+INPUT_TABLE,,,
+Variable ID,,,
+SubsectorLogit_relative-cost-logit,,,
+,,,
+region,supplysector,subsector,logit.type
+Africa_Eastern,electricity,offshore wind,relative-cost-logit
+Africa_Northern,electricity,offshore wind,relative-cost-logit
+Africa_Southern,electricity,offshore wind,relative-cost-logit
+Africa_Western,electricity,offshore wind,relative-cost-logit
+Australia_NZ,electricity,offshore wind,relative-cost-logit
+Brazil,electricity,offshore wind,relative-cost-logit
+Canada,electricity,offshore wind,relative-cost-logit
+Central America and Caribbean,electricity,offshore wind,relative-cost-logit
+China,electricity,offshore wind,relative-cost-logit
+EU-12,electricity,offshore wind,relative-cost-logit
+EU-15,electricity,offshore wind,relative-cost-logit
+Europe_Eastern,electricity,offshore wind,relative-cost-logit
+Europe_Non_EU,electricity,offshore wind,relative-cost-logit
+European Free Trade Association,electricity,offshore wind,relative-cost-logit
+India,electricity,offshore wind,relative-cost-logit
+Indonesia,electricity,offshore wind,relative-cost-logit
+Japan,electricity,offshore wind,relative-cost-logit
+Mexico,electricity,offshore wind,relative-cost-logit
+Middle East,electricity,offshore wind,relative-cost-logit
+Pakistan,electricity,offshore wind,relative-cost-logit
+Russia,electricity,offshore wind,relative-cost-logit
+South Africa,electricity,offshore wind,relative-cost-logit
+South America_Northern,electricity,offshore wind,relative-cost-logit
+South America_Southern,electricity,offshore wind,relative-cost-logit
+South Asia,electricity,offshore wind,relative-cost-logit
+South Korea,electricity,offshore wind,relative-cost-logit
+Southeast Asia,electricity,offshore wind,relative-cost-logit
+Taiwan,electricity,offshore wind,relative-cost-logit
+Argentina,electricity,offshore wind,relative-cost-logit
+Colombia,electricity,offshore wind,relative-cost-logit

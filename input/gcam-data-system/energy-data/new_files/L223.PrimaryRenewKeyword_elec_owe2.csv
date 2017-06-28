@@ -1,0 +1,27 @@
+INPUT_TABLE,,,,
+Variable ID,,,,
+PrimaryRenewKeyword,,,,
+,,,,
+sector.name,subsector.name,technology,year,primary.renewable
+electricity,offshore wind,offshore_wind_storage_2,1975,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,1990,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2005,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2010,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2015,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2020,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2025,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2030,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2035,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2040,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2045,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2050,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2055,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2060,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2065,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2070,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2075,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2080,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2085,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2090,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2095,offshore-wind-elect
+electricity,offshore wind,offshore_wind_storage_2,2100,offshore-wind-elect
